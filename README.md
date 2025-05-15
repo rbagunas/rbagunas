@@ -41,7 +41,7 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-CD-330F63?logo=gitlab&logoColor=white&style=flat-square)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI%2FCD-330F63?logo=gitlab&logoColor=white&style=flat-square)
 
 #### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square)
