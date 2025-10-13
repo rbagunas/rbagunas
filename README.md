@@ -70,7 +70,7 @@
 
 ---
 
-> *“Automation is good, so long as you know exactly what you want it to do.”* – Bill Gates
+> *“Automation doesn’t eliminate the need for humans—it amplifies what humans can do.”* – Gene Kim
 
 ---
 
