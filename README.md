@@ -11,7 +11,7 @@
 
 👨‍💻 Systems Admin turned Cloud DevOps Enthusiast. Passionate about infrastructure as code, automation, and containerized deployments.
 
-- 🔭 Currently building projects using **Docker**, **Terraform**, and **Ansible**
+- 🔭 Currently building projects using **Docker**, **Kubernetes**, **Terraform**, and **Ansible**
 - 🌱 Learning advanced **CI/CD pipelines**, **cloud provisioning**, and **observability stacks**
 - 💡 Interested in open-source automation tools and cloud-native practices
 - 📚 Actively documenting my DevOps journey and sharing insights
